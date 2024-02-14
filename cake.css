@@ -104,21 +104,21 @@ html{
 .header .navbar a{
     font-size: 1.5rem;
     color: #fff;
-    margin: 0.1rem;
+    margin: 8px;
 }
 
 .header .navbar a:hover{
     color: #222;
 }
 
-.header .icons div{
+.header .icons a{
     font-size: 1.8rem;
     margin-left: 1.7rem;
     cursor: pointer;
     color:#fff ;
 }
 
-.header .icons div:hover{
+.header .icons a:hover{
     color: #222;
 }
 
@@ -279,6 +279,9 @@ html{
     background: #f3f3f3;
     text-align: center;
     overflow: hidden;
+    display: flex;
+    flex-direction: column;
+    justify-content: space-between;
 }
 .product .box-container .box:hover .icons{
     top:0;
