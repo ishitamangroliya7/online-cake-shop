@@ -20,3 +20,8 @@ Testing:
 Test the website thoroughly to ensure it's working correctly on different devices and browsers.
 
 future improvements that can be made to the website, like adding a shopping cart feature or integrating social media.
+
+
+![image alt](https://github.com/ishitamangroliya7/online-cake-shop/blob/2fee5218f82a5691eac1e2465ac1294dbc1de38a/op1.png)
+
+![image alt](https://github.com/ishitamangroliya7/online-cake-shop/blob/2fee5218f82a5691eac1e2465ac1294dbc1de38a/Screenshot%20(80).png)
